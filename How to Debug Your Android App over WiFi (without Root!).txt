@@ -1,1 +1,3 @@
 https://futurestud.io/tutorials/how-to-debug-your-android-app-over-wifi-without-root
+
+https://hackernoon.com/games-build-on-webassembly-3679b3962a19
